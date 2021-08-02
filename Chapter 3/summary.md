@@ -222,3 +222,8 @@ main endp
 end main
 ```
 
+
+
+## 定义数据
+
+to be continued…
