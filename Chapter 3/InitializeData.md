@@ -33,7 +33,7 @@
 
 ### 名字
 
-分配给变量的可选名字须遵守[标识符规范](basic language elements.md#标识符)。
+分配给变量的可选名字须遵守[标识符规范](BasicLanguageElements.md#标识符)。
 
 ### 伪指令
 
