@@ -2,11 +2,11 @@
 
 
 
-## [基本语言元素](basic language elements.md#基本语言元素)
+## [基本语言元素](BasicLanguageElements.md)
 
-## [程序模板](program template.md#程序模板)
+## [程序模板](ProgramTemplate.md)
 
-## [定义数据](Initialize data.md#定义数据)
+## [定义数据](InitializeData.md)
 
 to be continued…
 
