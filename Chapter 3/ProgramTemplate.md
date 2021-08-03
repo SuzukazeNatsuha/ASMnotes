@@ -1,4 +1,6 @@
-## 程序模板
+# 程序模板
+
+## x86
 
 通常asm小程序可以有一个固定简单结构：
 
@@ -19,5 +21,23 @@ main proc
 	invoke ExitProcess,0
 main endp
 end main
+```
+
+## x86-64
+
+```assembly
+ExitProcess proto
+
+.data
+
+
+.code
+main proc
+
+
+	mov ecx,0
+	call ExitProcess
+main endp
+e
 ```
 
